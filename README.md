@@ -24,4 +24,4 @@ This project is beginner-friendly and demonstrates basic Python concepts.
 This project was created to practice Python basics and prepare for internships.
 
 ## Author
-Sunil Kumar
+Sunil Kumar R
